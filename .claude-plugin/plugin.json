@@ -1,0 +1,14 @@
+{
+  "name": "godot-lsp-bridge",
+  "version": "1.0.0",
+  "description": "GDScript language intelligence for Godot 4.x — autocompletion, go-to-definition, hover docs, diagnostics, and scene/resource file support via Godot’s native LSP.",
+  "author": {
+    "name": "Pixel Directive, LLC",
+    "url": "https://github.com/Pixel-Directive-LLC"
+  },
+  "homepage": "https://github.com/Pixel-Directive-LLC/godot-lsp-bridge",
+  "repository": "https://github.com/Pixel-Directive-LLC/godot-lsp-bridge",
+  "license": "MPL-2.0",
+  "keywords": ["gdscript", "godot", "godot-4", "lsp", "language-server", "autocompletion", "game-development"],
+  "lspServers": "./.lsp.json"
+}
